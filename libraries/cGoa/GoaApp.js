@@ -83,6 +83,7 @@ var GoaApp = (function (goaApp) {
         }
       }
       
+      
       // maybe we can refresh one
       else if ( goaApp.hasRefreshToken(package) ) {
         var result = goaApp.tryRefresh (package);
@@ -205,6 +206,8 @@ var GoaApp = (function (goaApp) {
     var servicePackage = goaApp.getServicePackage ( package);
     return servicePackage.accountType === 'firebase';
   };
+  
+
   
   /**
   * creates a package from a file for a service account
