@@ -1,5 +1,5 @@
 # Google Apps Script Project: bigQuerySheet
-This repo (bigQuerySheet) was automatically updated on 27 July 2016 10:37:17 BST by GasGit
+This repo (bigQuerySheet) was automatically updated on 31 October 2018 11:42:17 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project bigQuerySheet
@@ -13,17 +13,20 @@ QueryUtils| server_js
 oauth| server_js
 App| server_js
 queryTests| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|58|no|[here](libraries/cUseful "library source")
-cGoa| cGoa|MZx5DzNPsYjVyZaR67xXJQai_d-phDA33|16|no|[here](libraries/cGoa "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|58|no|[here](libraries/cUseful "library source")
+cGoa| cGoa|1v_l4xN3ICa0lAW315NQEzAHPSoNiFdWHsMEwj2qA5t9cgZ5VWci2Qxv2|16|no|[here](libraries/cGoa "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|58|no|[here](libraries/cUseful "library source")
-cGoa| cGoa|MZx5DzNPsYjVyZaR67xXJQai_d-phDA33|16|no|[here](libraries/cGoa "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|58|no|[here](libraries/cUseful "library source")
+cGoa| cGoa|1v_l4xN3ICa0lAW315NQEzAHPSoNiFdWHsMEwj2qA5t9cgZ5VWci2Qxv2|16|no|[here](libraries/cGoa "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
