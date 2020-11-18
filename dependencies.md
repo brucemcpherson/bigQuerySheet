@@ -1,7 +1,7 @@
 # Google Apps Script Project: bigQuerySheet
 This repo (bigQuerySheet) was automatically updated on 31 October 2018 11:42:17 GMT by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information see the [desktop liberation site](https://sites.google.com/a/mcpher.com/share/Home/excelquirks/gassnips/buquerysheets "desktop liberation") or [contact me on Gitter](https://gitter.im/desktopliberation/community "Bruce McPherson - GDE")
 ## Details for Apps Script project bigQuerySheet
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [bigQuerySheet is here](https://script.google.com/d/1GC-0PCcpsVh-PMWgGAP5didUSNQJTni9btyzXC11OyOvHYOcJP10-mUV/edit?usp=sharing "open in the GAS IDE")
